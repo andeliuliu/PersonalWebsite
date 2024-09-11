@@ -15,13 +15,18 @@ export default function Navbar() {
                 </a>
               </li>
               <li>
-                <a href="experience" className="hover:text-gray-400">
+                <a href="work-experience" className="hover:text-gray-400">
                   Work Experience
                 </a>
               </li>
               <li>
                 <a href="projects" className="hover:text-gray-400">
                   Projects
+                </a>
+              </li>
+              <li>
+                <a href="assignments" className="hover:text-gray-400">
+                  Assignments
                 </a>
               </li>
               <li>
